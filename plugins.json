@@ -5,6 +5,14 @@
     "provider": "https://armory.io",
     "releases": [
       {
+        "version": "0.5.4",
+        "date": "2022-08-17T22:32:43.236963Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "cfd74e11fabbf2a2d2f91c977c783cc5a1153722ba8130c9d3d6df30defea1324ec1de4af0b5911ad7e2f79952989dd87b5b202bd15df4a1fa1f65d24cfabc6f",
+        "state": "",
+        "url": "https://github.com/Avi1235/TMP-Custom-Stage-Spinnaker/releases/download/v0.5.4/spinnaker-multiple-pipelines-0.5.4.zip"
+      },
+      {
         "version": "0.5.3",
         "date": "2022-08-12T15:00:05.219847Z",
         "requires": "orca>=0.0.0,deck>=0.0.0",
